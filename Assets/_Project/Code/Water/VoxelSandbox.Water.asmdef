@@ -1,0 +1,17 @@
+{
+  "name": "VoxelSandbox.Water",
+  "rootNamespace": "VoxelSandbox.Water",
+  "references": [
+    "VoxelSandbox.Core",
+    "VoxelSandbox.World"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

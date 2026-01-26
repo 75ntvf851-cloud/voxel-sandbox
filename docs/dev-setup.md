@@ -1,10 +1,10 @@
 # VoxelSandbox - Development Setup
 
 ## Unity Version
-**Required**: Unity 2022.3 LTS (or latest available LTS)  
+**Required**: Unity 2022.3.17f1 LTS  
 **Rendering**: Universal Render Pipeline (URP)
 
-> **Note**: The exact Unity version used will be documented here after project creation.
+**Exact Version**: 2022.3.17f1 (93f38d9e4388)
 
 ---
 

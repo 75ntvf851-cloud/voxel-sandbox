@@ -1,0 +1,17 @@
+{
+  "name": "VoxelSandbox.Quest",
+  "rootNamespace": "VoxelSandbox.Quest",
+  "references": [
+    "VoxelSandbox.Core",
+    "VoxelSandbox.UI"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

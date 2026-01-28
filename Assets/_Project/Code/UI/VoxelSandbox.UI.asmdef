@@ -1,0 +1,17 @@
+{
+  "name": "VoxelSandbox.UI",
+  "rootNamespace": "VoxelSandbox.UI",
+  "references": [
+    "VoxelSandbox.Core",
+    "Unity.TextMeshPro"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

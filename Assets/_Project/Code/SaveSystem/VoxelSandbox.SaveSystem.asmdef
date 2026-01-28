@@ -1,0 +1,19 @@
+{
+  "name": "VoxelSandbox.SaveSystem",
+  "rootNamespace": "VoxelSandbox.SaveSystem",
+  "references": [
+    "VoxelSandbox.Core",
+    "VoxelSandbox.World",
+    "VoxelSandbox.Water",
+    "VoxelSandbox.Building"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

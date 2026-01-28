@@ -48,6 +48,17 @@
   "block_glass": "Стекло",
   "block_hull": "Обшивка",
   "block_steel": "Сталь",
+  "block_motor_wheel": "Мотор-Колесо",
+  "block_jet_engine": "Реактивный Двигатель",
+  "block_rotor": "Ротор",
+  "block_piston": "Поршень",
+  "block_drill": "Бур",
+  
+  "_comment_energy": "Energy System",
+  "energy_consumption": "Потребление: {0} кВт",
+  "energy_status_active": "Активен",
+  "energy_status_inactive": "Неактивен",
+  "energy_status_no_power": "Нет энергии",
   
   "_comment_water": "Water Debug",
   "water_debug_title": "Отладка Воды",

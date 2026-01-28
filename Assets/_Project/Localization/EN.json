@@ -48,6 +48,17 @@
   "block_glass": "Glass",
   "block_hull": "Hull",
   "block_steel": "Steel",
+  "block_motor_wheel": "Motor-Wheel",
+  "block_jet_engine": "Jet Engine",
+  "block_rotor": "Rotor",
+  "block_piston": "Piston",
+  "block_drill": "Drill",
+  
+  "_comment_energy": "Energy System",
+  "energy_consumption": "Consumption: {0} kW",
+  "energy_status_active": "Active",
+  "energy_status_inactive": "Inactive",
+  "energy_status_no_power": "No Power",
   
   "_comment_water": "Water Debug",
   "water_debug_title": "Water Debug",

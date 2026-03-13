@@ -1,0 +1,16 @@
+{
+  "name": "VoxelSandbox.Vehicle",
+  "rootNamespace": "VoxelSandbox.Vehicle",
+  "references": [
+    "VoxelSandbox.Core"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

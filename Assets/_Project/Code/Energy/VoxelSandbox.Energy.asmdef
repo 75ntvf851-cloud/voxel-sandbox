@@ -1,0 +1,17 @@
+{
+  "name": "VoxelSandbox.Energy",
+  "rootNamespace": "VoxelSandbox.Energy",
+  "references": [
+    "VoxelSandbox.Core",
+    "VoxelSandbox.World"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
